@@ -1,0 +1,20 @@
+address: https://test-stand.gb.ru
+address_post: "https://test-stand.gb.ru/api/posts"
+browser: chrome
+sleep_time: 20
+
+login: web1
+pswd: e694aa37ab
+
+title_post: 22222 Maine Coon
+description_post: Maine Coon
+content_post: TEST
+
+
+btn2: create-btn
+input1: //*[@id="create-item"]/div/div/div[1]/div/label
+input2: //*[@id="create-item"]/div/div/div[2]/div/label/span/textarea
+input3: //*[@id="create-item"]/div/div/div[3]/div/label/span/textarea
+btn3: //*[@id="create-item"]/div/div/div[7]/div/button
+btn_save_selector: h1.svelte-tv8alb
+
