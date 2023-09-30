@@ -1,1 +1,36 @@
+21:27:15 INFO ====== WebDriver manager ======
+21:27:16 INFO Get LATEST chromedriver version for google-chrome
+21:27:16 INFO Get LATEST chromedriver version for google-chrome
+21:27:16 INFO There is no [win64] chromedriver "117.0.5938.92" for browser google-chrome "117.0.5938.92" in cache
+21:27:16 INFO Get LATEST chromedriver version for google-chrome
+21:27:17 INFO WebDriver version 117.0.5938.92 selected
+21:27:17 INFO Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/117.0.5938.92/win32/chromedriver-win32.zip
+21:27:17 INFO About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/117.0.5938.92/win32/chromedriver-win32.zip
+21:27:17 INFO Driver downloading response is 200
+21:27:18 INFO Get LATEST chromedriver version for google-chrome
+21:27:19 INFO Driver has been saved in cache [C:\Users\main\.wdm\drivers\chromedriver\win64\117.0.5938.92]
+21:27:20 INFO Test1 negative starting
+21:27:21 INFO Send 'test' to element //*[@id="login"]/div[1]/label/input
+21:27:21 INFO Send 'test' to element //*[@id="login"]/div[2]/label/input
+21:27:21 INFO Click login button
+21:27:22 INFO Start find error text
+21:27:22 INFO We find text '401' in error field //*[@id="app"]/main/div/div/div[2]/h2
+21:27:22 INFO Test positive starting
+21:27:22 INFO Send 'web1' to element //*[@id="login"]/div[1]/label/input
+21:27:22 INFO Send 'e694aa37ab' to element //*[@id="login"]/div[2]/label/input
+21:27:22 INFO Click login button
+21:27:23 INFO Create new post
+21:27:23 INFO Click create button
+21:27:24 INFO Send 'Test for homework 3' to element //*[@id="create-item"]/div/div/div[1]/div/label/input
+21:27:24 INFO Send 'Homework prepared by Kregel Natalya' to element //*[@id="create-item"]/div/div/div[2]/div/label/span/textarea
+21:27:24 INFO Send 'Automating Web Application Testing in Python' to element //*[@id="create-item"]/div/div/div[3]/div/label/span/textarea
+21:27:25 INFO Click button "Save"
+21:27:27 INFO Test Starting Homework3
+21:27:27 INFO Click contacts button
+21:27:27 INFO Send 'KregelNatalya' to element //*[@id="contact"]/div[1]/label/input
+21:27:28 INFO Send 'KregelNatalya@gmail.com' to element //*[@id="contact"]/div[2]/label/input
+21:27:28 INFO Send 'Homework в„–3' to element //*[@id="contact"]/div[3]/label/span/textarea
+21:27:30 INFO Click contacts button
+21:27:32 INFO Получаем текст из alert
+21:27:34 INFO Получаем текст из alert
 
