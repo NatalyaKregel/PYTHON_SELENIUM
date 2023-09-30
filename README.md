@@ -34,6 +34,15 @@
 :point_right: [Перейти к решению](https://github.com/NatalyaKregel/PYTHON_SELENIUM/tree/main/Homework3 "Открыть")
 
 
+**Задача №4:**
+
+Условие: Добавить в проект тесты API, написанные в ходе первого семинара.
+Доработать эти тесты в едином стиле с тестами UI, добавив логирование и обработку ошибок. Должен получиться единый тестовый проект.
+
+Формат сдачи: проект на Python с обязательным использованием Pytest
+
+:point_right: [Перейти к решению](https://github.com/NatalyaKregel/PYTHON_SELENIUM/tree/main/Homework4 "Открыть")
+
 
 
 :point_right: [Вначало](#return "Вернуться вначало")
