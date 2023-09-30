@@ -1,1 +1,9 @@
+url_auto: 'https://test-stand.gb.ru/gateway/login'
+url_post: "https://test-stand.gb.ru/api/posts"
 
+username: "web1"
+password: "e694aa37ab"
+
+title_post: "Maine Coon"
+description_post: "Maine Coon"
+content_post: "Maine Coon"
