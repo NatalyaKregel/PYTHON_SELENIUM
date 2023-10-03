@@ -1,1 +1,4 @@
-
+01:14:19 INFO Create post RESTAPI
+01:14:19 INFO Getting login tokens
+01:14:20 INFO Send to the server
+01:14:21 INFO Receiving data from the server
