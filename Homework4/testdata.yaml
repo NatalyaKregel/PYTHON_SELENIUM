@@ -1,1 +1,21 @@
+address: https://test-stand.gb.ru/gateway/login
+api_address: https://test-stand.gb.ru/api/posts
+
+browser: Chrome
+sleep_time: 1
+
+login_invalid: test
+pswd_invalid: test
+login: web1
+pswd: e694aa37ab
+
+title: Test for homework 4
+description: Homework prepared by Kregel Natalya
+content: Automating Web Application Testing in Python
+
+name: KregelNatalya
+email: KregelNatalya@gmail.com
+content_field: Homework 4
+
+
 
