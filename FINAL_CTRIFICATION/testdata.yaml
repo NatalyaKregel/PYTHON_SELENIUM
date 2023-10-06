@@ -1,1 +1,13 @@
+address: https://test-stand.gb.ru/gateway
+api_address: https://test-stand.gb.ru/api/posts
 
+browser: Chrome
+sleep_time: 1
+
+login_invalid: test
+pswd_invalid: test
+login: web1
+pswd: e694aa37ab
+
+url_login: https://test-stand.gb.ru/gateway/login
+url_profile: https://test-stand.gb.ru/api/users/profile/16006
